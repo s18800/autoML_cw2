@@ -29,7 +29,7 @@ option1 = st.selectbox(
 
 option2 = st.selectbox(
     "Język docelowy",
-    [   'Angielski'
+    [   'Niemiecki'
     ]
 )
 
